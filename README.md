@@ -7,4 +7,4 @@
 > Here is my HW and Notes Respiratory:
 
 1. HWs are in the HW folder
-2. Exercises are in the Note folder
+2. Inclass Exercises are outside
