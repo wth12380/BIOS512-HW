@@ -3,6 +3,7 @@
 - Name : Theo Wu
 - PID  : 730426867
 - email: wth12380@unc.edu
+- Slack: wth12380
 
 > Here is my HW and Notes Respiratory:
 
